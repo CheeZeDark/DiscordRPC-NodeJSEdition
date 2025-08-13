@@ -1,5 +1,5 @@
 # DiscordRPC-NodeJSEdition
-This is Program for Init Discord RPC(Rich Presence)... Enjoy to use this!!!
+This is Program(Written on TypeScript) for Init Discord RPC(Rich Presence)... Enjoy to use this!!!
 
 ## Donations
 
